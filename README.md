@@ -1,6 +1,6 @@
 Hi, I'm Sheila 👋🏽
 --
-- 👨🏻‍💻 Software Engineer.
+- 👨🏻‍💻 Software Engineer.Full Stack Developer
 - 👀 I’m interested in JavaScript and TypeScript
 - 🌱 I’m currently learning Machine Learning and Big Data
 - ✍ Author of <a href="https://www.researchgate.net/publication/332397542_Facial_Recognition_of_Emotions_with_Smartphones_to_Improve_the_Elder_Quality_of_Life">Facial Recognition of Emotions with Smartphones to Improve the Elder Quality of Life</a>
